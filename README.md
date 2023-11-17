@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Larborator
-- 👀 I’m interested in Java Web, Big Data processing
+- 👀 I’m interested in development, Big Data processing
 - 🌱 I’m currently learning on OLAP
 - 📫 How to reach me zsmas10@126.com
 
