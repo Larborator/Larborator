@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Larborator
+- 👋 Hi, I’m @Larborator, contributor of Apache Doris/Seatunnel
 - 👀 I’m interested in development, Big Data processing
 - 🌱 I’m currently learning on OLAP
-- 📫 How to reach me zsmas10@126.com
+- 📫 How to reach me 466902955@qq.com
 
 <!---
 Larborator/Larborator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
