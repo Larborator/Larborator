@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Larborator, contributor of Apache Doris/Seatunnel
+- 👋 Hi, I’m @Sim Chou, contributor of Apache Doris/Seatunnel
 - 👀 I’m interested in development, Big Data processing
 - 🌱 I’m currently learning on OLAP
 - 📫 How to reach me 466902955@qq.com
