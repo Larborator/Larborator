@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sim Chou, contributor of Apache Doris/Seatunnel
+- 👋 Hi, I’m Sim Chou, contributor of Apache Doris/Apache Seatunnel
 - 👀 I’m interested in OLAP, Big Data processing
 - 📫 How to reach me 466902955@qq.com
 
