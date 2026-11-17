@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sim Chou
 - 🎖️ Contributor of Apache Doris/Apache Seatunnel
-- 👀 I’m interested in OLAP and HSAP
+- 👀 I’m interested in OLAP
 - 📫 How to reach me 466902955@qq.com
 
 <!---
